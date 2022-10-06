@@ -1,0 +1,41 @@
+.area{
+    height: auto;
+    width: 600px;
+    background-color:#f3edf2;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding:10px;
+
+}
+.items{
+    background-color:white;
+    margin: 70px 50px 0 50px;
+    border-radius: 5px;
+
+}
+.pictures{
+    width: 115px;
+
+}
+button.mybtn{
+    border: 2px solid black;
+    color: black;
+    background-color: aqua;
+}
+#spin,#spin1{
+    height: 40px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(191, 160, 203);
+    text-align: center;
+}
+.billing{
+    padding:15px 50px 10px 50px;
+
+}
+#checkout{
+    margin: 30px 50px 30px 50px;
+}
+
+
